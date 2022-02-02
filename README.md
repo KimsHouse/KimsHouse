@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=k1mjunooo)](https://solved.ac/k1mjunooo)
 
 <!--
 **KimsHouse/KimsHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
