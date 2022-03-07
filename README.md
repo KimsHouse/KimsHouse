@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=k1mjunooo)](https://solved.ac/k1mjunooo)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimsHouse&&show_icons=true&theme=redical)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=k1mjunooo)](https://solved.ac/k1mjunooo)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimsHouse&&show_icons=true&theme=redical)]
 <!--
 **KimsHouse/KimsHouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
